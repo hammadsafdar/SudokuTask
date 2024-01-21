@@ -18,7 +18,7 @@ class Program
             new int[] {1, 9, 5, 2, 8, 7, 6, 3, 4}
         };
 
-        //int[][] goodSudoku1 = {
+        //int[][] badSudoku1 = {
         //        new int[] {1,2,3,4,5},
         //        new int[] {1,2,3,4},
         //        new int[] {1,2,3,4},
